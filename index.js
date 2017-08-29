@@ -18,7 +18,7 @@ function logWhisper(string){
 
 }
 
-/*function sayHiToGrandma(string){
+function sayHiToGrandma(string){
   if (string === string.toUpperCase() ){
     return "YES INDEED!"
   }
@@ -32,4 +32,4 @@ function logWhisper(string){
   else{
     return "how is this possible"
   }
-}*/
+}
